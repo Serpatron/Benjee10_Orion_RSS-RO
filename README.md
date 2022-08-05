@@ -1,6 +1,8 @@
 # Benjee10_Orion_RSS-RO
 Preliminary Configurations for Benjee10s Orion Capsule to be used with Realism Overhaul in KSP. 
 
+Install location: Gamedata\RealismOverhaul\RO_SuggestedMods
+
 REQUIRES RO ENGINES
 
 IMPORTANT:
