@@ -19,6 +19,7 @@ IMPORTANT:
 -These configs do *NOT* have RP1 Configurations. Sorry not sorry. They will be added in the future. 
 
 -For Kerbalism users, it is REQUIRED that you put an external ECLSS module on the craft to remove CO2 from the atmosphere. Preferrably on the CM. Needs to be added to the configs, but for now, this is how it is. 
+
 -Reentry COM switch isn't great. 
 
 Please feel free to add to these configs with fixes and adjustments.
