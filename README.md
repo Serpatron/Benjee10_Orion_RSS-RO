@@ -1,6 +1,8 @@
 # Benjee10_Orion_RSS-RO
 Preliminary Configurations for Benjee10s Orion Capsule to be used with Realism Overhaul in KSP. 
 
+REQUIRES RO ENGINES
+
 IMPORTANT:
 
 RealChute Configs are less than perfect. For each mission you will need to select the deploy information in the VAB. Best to double check on the launch pad.
