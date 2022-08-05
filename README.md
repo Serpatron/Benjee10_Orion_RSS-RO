@@ -3,7 +3,7 @@ Preliminary Configurations for Benjee10s Orion Capsule to be used with Realism O
 
 Install location: Gamedata\RealismOverhaul\RO_SuggestedMods
 
-REQUIRES RO ENGINES
+REQUIRES RO_ENGINES
 
 IMPORTANT:
 
