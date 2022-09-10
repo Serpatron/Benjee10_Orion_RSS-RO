@@ -23,3 +23,5 @@ IMPORTANT:
 -Reentry COM switch isn't great. 
 
 Please feel free to add to these configs with fixes and adjustments.
+
+ICPS tank works **ONLY** as an ICPS Tank. Cannot be used as the DCSS. This is a limitation in how realism overhaul treats tank switches. 
